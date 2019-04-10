@@ -1,0 +1,6 @@
+docs/html
+*.whl
+*.so
+*.dylib
+*.html
+*.inv
