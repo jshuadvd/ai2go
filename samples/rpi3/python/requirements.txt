@@ -1,0 +1,4 @@
+Pillow>=5.1.0
+picamera
+psutil
+numpy
