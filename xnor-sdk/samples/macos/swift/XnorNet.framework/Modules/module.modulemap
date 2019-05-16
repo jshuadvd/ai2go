@@ -1,0 +1,11 @@
+
+framework module XnorNet {
+  umbrella header "XnorNet-Umbrella.h"
+
+  export *
+}
+
+module XnorNet.Swift {
+  header "core-bindings-Swift.h"
+  requires objc
+}
